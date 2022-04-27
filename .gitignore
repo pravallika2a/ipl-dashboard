@@ -35,4 +35,4 @@ build/
 .vscode/
 
 ### React ###
-src/frontend/node_modules
+src/frontend/node_modules/
